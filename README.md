@@ -267,4 +267,4 @@ Didapatkan hasil **R2** sebesar 0.7675675344547164. Dengan hasil seperti itu mak
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-angka-harapan-hidup-gqj9iyxxqvdtbzk2v7glfs.streamlit.app/
