@@ -60,7 +60,7 @@ Link Dataset: [Angka harapan hidup](https://www.kaggle.com/datasets/uom190346a/h
 - Income Composition of Resources: indeks gabungan yang mencerminkan distribusi pendapatan dan akses sumber daya.
 - Schooling : Angka rata-rata pendidikan masyrakat dalam skala tahun
 
-   ![Image](EDA1.png)
+   ![Image](EDA.png)
    ![Image](EDA2.png)
    ![Image](EDA3.png)
    ![Image](EDA4.png)
